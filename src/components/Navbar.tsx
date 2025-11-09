@@ -5,7 +5,7 @@ import { Wallet } from "lucide-react";
 const Navbar = () => {
   return (
     <nav className="border-b border-border bg-background">
-      <div className="container mx-auto px-6 py-4">
+      <div className="container mx-auto px-10 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <h1 className="text-2xl font-bold text-foreground">
